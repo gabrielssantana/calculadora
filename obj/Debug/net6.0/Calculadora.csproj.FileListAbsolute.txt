@@ -1,0 +1,15 @@
+/home/gabs/estudos/csharp/Calculadora/bin/Debug/net6.0/Calculadora
+/home/gabs/estudos/csharp/Calculadora/bin/Debug/net6.0/Calculadora.deps.json
+/home/gabs/estudos/csharp/Calculadora/bin/Debug/net6.0/Calculadora.runtimeconfig.json
+/home/gabs/estudos/csharp/Calculadora/bin/Debug/net6.0/Calculadora.dll
+/home/gabs/estudos/csharp/Calculadora/bin/Debug/net6.0/Calculadora.pdb
+/home/gabs/estudos/csharp/Calculadora/obj/Debug/net6.0/Calculadora.csproj.AssemblyReference.cache
+/home/gabs/estudos/csharp/Calculadora/obj/Debug/net6.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabs/estudos/csharp/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfoInputs.cache
+/home/gabs/estudos/csharp/Calculadora/obj/Debug/net6.0/Calculadora.AssemblyInfo.cs
+/home/gabs/estudos/csharp/Calculadora/obj/Debug/net6.0/Calculadora.csproj.CoreCompileInputs.cache
+/home/gabs/estudos/csharp/Calculadora/obj/Debug/net6.0/Calculadora.dll
+/home/gabs/estudos/csharp/Calculadora/obj/Debug/net6.0/refint/Calculadora.dll
+/home/gabs/estudos/csharp/Calculadora/obj/Debug/net6.0/Calculadora.pdb
+/home/gabs/estudos/csharp/Calculadora/obj/Debug/net6.0/Calculadora.genruntimeconfig.cache
+/home/gabs/estudos/csharp/Calculadora/obj/Debug/net6.0/ref/Calculadora.dll
